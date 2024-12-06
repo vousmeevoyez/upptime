@@ -4,7 +4,7 @@
     "url": "https://binar.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/binar.co.id.ico",
     "slug": "binar-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1855,
     "timeMonth": 1764,
     "timeYear": 2018,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-06": 0
+    }
   }
 ]
