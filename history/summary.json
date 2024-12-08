@@ -6,15 +6,15 @@
     "slug": "binar-academy",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 2005,
-    "timeDay": 1494,
-    "timeWeek": 1817,
-    "timeMonth": 1756,
-    "timeYear": 2005,
+    "time": 2057,
+    "timeDay": 6219,
+    "timeWeek": 2402,
+    "timeMonth": 1906,
+    "timeYear": 2057,
     "dailyMinutesDown": {
       "2024-12-06": 20
     }
