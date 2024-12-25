@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/binar.co.id.ico",
     "slug": "binar-academy",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 2282,
-    "timeDay": 1663,
-    "timeWeek": 3578,
-    "timeMonth": 2770,
-    "timeYear": 2282,
+    "uptimeYear": "99.99%",
+    "time": 2276,
+    "timeDay": 1652,
+    "timeWeek": 2225,
+    "timeMonth": 2754,
+    "timeYear": 2276,
     "dailyMinutesDown": {
       "2024-12-06": 20
     }
