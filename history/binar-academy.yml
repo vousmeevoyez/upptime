@@ -1,7 +1,7 @@
 url: https://binar.co.id
-status: up
-code: 200
-responseTime: 1440
-lastUpdated: 2025-02-05T10:57:57.538Z
+status: down
+code: 429
+responseTime: 677
+lastUpdated: 2025-02-05T12:50:46.688Z
 startTime: 2024-09-21T08:09:52.340Z
 generator: Upptime <https://github.com/upptime/upptime>
