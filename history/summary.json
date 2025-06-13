@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xpvz1sxb-80.asse.devtunnels.ms.ico",
     "slug": "ekofani",
     "status": "down",
-    "uptime": "54.59%",
-    "uptimeDay": "54.59%",
-    "uptimeWeek": "54.59%",
-    "uptimeMonth": "54.59%",
-    "uptimeYear": "54.59%",
+    "uptime": "44.66%",
+    "uptimeDay": "44.66%",
+    "uptimeWeek": "44.66%",
+    "uptimeMonth": "44.66%",
+    "uptimeYear": "44.66%",
     "time": 3136,
     "timeDay": 3136,
     "timeWeek": 3136,
     "timeMonth": 3136,
     "timeYear": 3136,
     "dailyMinutesDown": {
-      "2025-06-13": 34
+      "2025-06-13": 51
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://z598m72m-80.asse.devtunnels.ms",
     "icon": "https://icons.duckduckgo.com/ip3/z598m72m-80.asse.devtunnels.ms.ico",
     "slug": "king-fajjra-kelompok-2",
-    "status": "down",
-    "uptime": "95.90%",
-    "uptimeDay": "95.90%",
-    "uptimeWeek": "95.90%",
-    "uptimeMonth": "95.90%",
-    "uptimeYear": "95.90%",
-    "time": 3775,
-    "timeDay": 3775,
-    "timeWeek": 3775,
-    "timeMonth": 3775,
-    "timeYear": 3775,
+    "status": "up",
+    "uptime": "80.07%",
+    "uptimeDay": "80.07%",
+    "uptimeWeek": "80.07%",
+    "uptimeMonth": "80.07%",
+    "uptimeYear": "80.07%",
+    "time": 3387,
+    "timeDay": 3387,
+    "timeWeek": 3387,
+    "timeMonth": 3387,
+    "timeYear": 3387,
     "dailyMinutesDown": {
-      "2025-06-13": 3
+      "2025-06-13": 18
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://x0p3vp57-80.asse.devtunnels.ms/",
     "icon": "https://icons.duckduckgo.com/ip3/x0p3vp57-80.asse.devtunnels.ms.ico",
     "slug": "bostang-kelompok-4-attack-me-senpai",
-    "status": "down",
-    "uptime": "54.98%",
-    "uptimeDay": "54.98%",
-    "uptimeWeek": "54.98%",
-    "uptimeMonth": "54.98%",
-    "uptimeYear": "54.98%",
-    "time": 876,
-    "timeDay": 876,
-    "timeWeek": 876,
-    "timeMonth": 876,
-    "timeYear": 876,
+    "status": "up",
+    "uptime": "46.61%",
+    "uptimeDay": "46.61%",
+    "uptimeWeek": "46.61%",
+    "uptimeMonth": "46.61%",
+    "uptimeYear": "46.61%",
+    "time": 881,
+    "timeDay": 881,
+    "timeWeek": 881,
+    "timeMonth": 881,
+    "timeYear": 881,
     "dailyMinutesDown": {
-      "2025-06-13": 33
+      "2025-06-13": 49
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cwd759j0-80.asse.devtunnels.ms.ico",
     "slug": "sari-rotiiiii",
     "status": "down",
-    "uptime": "32.43%",
-    "uptimeDay": "32.43%",
-    "uptimeWeek": "32.43%",
-    "uptimeMonth": "32.43%",
-    "uptimeYear": "32.43%",
+    "uptime": "25.39%",
+    "uptimeDay": "25.39%",
+    "uptimeWeek": "25.39%",
+    "uptimeMonth": "25.39%",
+    "uptimeYear": "25.39%",
     "time": 924,
     "timeDay": 924,
     "timeWeek": 924,
     "timeMonth": 924,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2025-06-13": 41
+      "2025-06-13": 57
     }
   }
 ]
