@@ -6,6 +6,10 @@ sites:
   - name: Binar Academy
     url: https://binar.co.id
 
+
+  - name: Team 1
+    url: https://9gpg4lpj-80.asse.devtunnels.ms/
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
