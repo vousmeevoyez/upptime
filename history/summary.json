@@ -1,22 +1,60 @@
 [
   {
-    "name": "Team 1",
-    "url": "https://9gpg4lpj-80.asse.devtunnels.ms/",
-    "icon": "https://icons.duckduckgo.com/ip3/9gpg4lpj-80.asse.devtunnels.ms.ico",
-    "slug": "team-1",
-    "status": "up",
-    "uptime": "73.76%",
-    "uptimeDay": "73.76%",
-    "uptimeWeek": "73.76%",
-    "uptimeMonth": "73.76%",
-    "uptimeYear": "73.76%",
-    "time": 1054,
-    "timeDay": 1054,
-    "timeWeek": 1054,
-    "timeMonth": 1054,
-    "timeYear": 1054,
+    "name": "Ekofani",
+    "url": "https://xpvz1sxb-80.asse.devtunnels.ms/",
+    "icon": "https://icons.duckduckgo.com/ip3/xpvz1sxb-80.asse.devtunnels.ms.ico",
+    "slug": "ekofani",
+    "status": "down",
+    "uptime": "84.44%",
+    "uptimeDay": "84.44%",
+    "uptimeWeek": "84.44%",
+    "uptimeMonth": "84.44%",
+    "uptimeYear": "84.44%",
+    "time": 9034,
+    "timeDay": 9034,
+    "timeWeek": 9034,
+    "timeMonth": 9034,
+    "timeYear": 9034,
     "dailyMinutesDown": {
-      "2025-06-13": 88
+      "2025-06-13": 0
+    }
+  },
+  {
+    "name": "King Fajjra (kelompok 2)",
+    "url": "https://z598m72m-80.asse.devtunnels.ms/",
+    "icon": "https://icons.duckduckgo.com/ip3/z598m72m-80.asse.devtunnels.ms.ico",
+    "slug": "king-fajjra-kelompok-2",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 959,
+    "timeDay": 959,
+    "timeWeek": 959,
+    "timeMonth": 959,
+    "timeYear": 959,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "BOSTANG (KELOMPOK 4) ; attack me, senpai 🐱",
+    "url": "https://4141m3tr-81.asse.devtunnels.ms/",
+    "icon": "https://icons.duckduckgo.com/ip3/4141m3tr-81.asse.devtunnels.ms.ico",
+    "slug": "bostang-kelompok-4-attack-me-senpai",
+    "status": "down",
+    "uptime": "16.74%",
+    "uptimeDay": "16.74%",
+    "uptimeWeek": "16.74%",
+    "uptimeMonth": "16.74%",
+    "uptimeYear": "16.74%",
+    "time": 693,
+    "timeDay": 693,
+    "timeWeek": 693,
+    "timeMonth": 693,
+    "timeYear": 693,
+    "dailyMinutesDown": {
+      "2025-06-13": 0
     }
   }
 ]
