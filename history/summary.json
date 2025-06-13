@@ -1,26 +1,5 @@
 [
   {
-    "name": "Binar Academy",
-    "url": "https://binar.co.id",
-    "icon": "https://icons.duckduckgo.com/ip3/binar.co.id.ico",
-    "slug": "binar-academy",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 2495,
-    "timeDay": 2346,
-    "timeWeek": 2882,
-    "timeMonth": 3662,
-    "timeYear": 2495,
-    "dailyMinutesDown": {
-      "2025-02-05": 105,
-      "2024-12-06": 20
-    }
-  },
-  {
     "name": "Team 1",
     "url": "https://9gpg4lpj-80.asse.devtunnels.ms/",
     "icon": "https://icons.duckduckgo.com/ip3/9gpg4lpj-80.asse.devtunnels.ms.ico",
