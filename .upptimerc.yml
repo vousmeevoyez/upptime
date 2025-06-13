@@ -3,8 +3,14 @@ owner: vousmeevoyez # Your GitHub organization or username, where this repositor
 repo: upptime # The name of this repository
 
 sites:
-  - name: Team 1
-    url: https://9gpg4lpj-80.asse.devtunnels.ms/
+  - name: Ekofani
+    url: https://xpvz1sxb-80.asse.devtunnels.ms/
+
+  - name: King Fajjra (kelompok 2)
+    url: https://z598m72m-80.asse.devtunnels.ms/ 
+
+  - name: BOSTANG (KELOMPOK 4) ; attack me, senpai 🐱
+    url: https://4141m3tr-81.asse.devtunnels.ms/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
